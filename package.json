@@ -1,7 +1,8 @@
 {
-  "name": "nem",
+  
+  "name": "node-http",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node HTTP Module Example",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/sumegh13/nem.git"
   },
-  "author": "",
+  "author": "Jogesh Muppala",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sumegh13/nem/issues"
